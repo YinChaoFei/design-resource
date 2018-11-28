@@ -35,6 +35,11 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + http://www.streamlineicons.com/
 + http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol5
 + https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd
++ [一套绝佳的图标字体库和CSS框架](http://fontawesome.dashgame.com/)
++ https://www.flaticon.com/
+
+  
+
 
 ## Fonts
 
