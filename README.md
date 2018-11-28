@@ -221,82 +221,83 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + 用户体验要素：以用户为中心的Web设计
 + About Face 3 交互设计精髓
 + 交互设计沉思录
-用户体验面面观 
-赢在用户
-设计沟通十器
-简约至上 
-交互设计之路
-设计心理学
-写给大家看的设计书(第3版)
-胜于言传：网站内容制胜宝典
-设计之下
-瞬间之美：web界面设计如何让用户心动
-破茧成蝶：用户体验设计师的成长之路
++ 用户体验面面观 
++ 赢在用户
++ 设计沟通十器
++ 简约至上 
++ 交互设计之路
++ 设计心理学
++ 写给大家看的设计书(第3版)
++ 胜于言传：网站内容制胜宝典
++ 设计之下
++ 瞬间之美：web界面设计如何让用户心动
++ 破茧成蝶：用户体验设计师的成长之路
 
 ###中级
-Designing Interactions
-字体传奇
-文字设计原理
-文字设计基础教程
-版式设计原理★
-超越平凡的平面设计
-细节决定交互设计的成败★
-简单法则★
-网站交互设计模式
-UCD火花集
-赢在用户
-用户体验的要素★
-移动设备交互设计
-锦绣蓝图：怎样规划令人流连忘返的网站
-自然用户界面设计
-设计人机界面
-web表单设计：点石成金的艺术★
-Tapworthy: Designing Great iPhone App
-移动应用的设计与开发
-Mobile Design For iPhone And iPad
-Mobile Design and Development
-用户体验草图设计
-简约至上★
-触动人心
-认知与设计★
-文案训练手册★
-设计师要懂心理学
-微交互
-Responsive Web Design
-至关重要的设计
-Killer UX Design
-The UX Book
-Design is A Job
-移动互联：用户体验设计指南
-贴心设计：打造高可用性的移动产品
+
++ Designing Interactions
++ 字体传奇
++ 文字设计原理
++ 文字设计基础教程
++ 版式设计原理★
++ 超越平凡的平面设计
++ 细节决定交互设计的成败★
++ 简单法则★
++ 网站交互设计模式
++ UCD火花集
++ 赢在用户
++ 用户体验的要素★
++ 移动设备交互设计
++ 锦绣蓝图：怎样规划令人流连忘返的网站
++ 自然用户界面设计
++ 设计人机界面
++ web表单设计：点石成金的艺术★
++ Tapworthy: Designing Great iPhone App
++ 移动应用的设计与开发
++ Mobile Design For iPhone And iPad
++ Mobile Design and Development
++ 用户体验草图设计
++ 简约至上★
++ 触动人心
++ 认知与设计★
++ 文案训练手册★
++ 设计师要懂心理学
++ 微交互
++ Responsive Web Design
++ 至关重要的设计
++ Killer UX Design
++ The UX Book
++ Design is A Job
++ 移动互联：用户体验设计指南
++ 贴心设计：打造高可用性的移动产品
 
 ###高级
-交互设计—-超越人机交互
-软件观念革命
-A Practical Guide to Information Architecture
-Designing for Emotion
-项目百态★
-当用户体验设计遇上敏捷
-Web导航设计
-Web信息架构—-设计大型网站★（移动应用的设计成熟度还不如网页设计，想深入学习交互可以从网页设计中借鉴经验）
-Web界面设计★
-精通Web Analytics2.0★
-交互设计沉思录
-用户故事与敏捷方法
-用户体验度量
-社会心理学
-Storytelling for User Experience
-The Elements of Content Strategy
-Lean UX★
-Handbook of Usability Testing
-Quantifying the User Experience
-Designing the Conversation
-Lean Analytics
-Search Analytics for Your Site
-Understanding Your Users★
-Sketching Drawing Techniques for Product Designers
-Card Sorting Designing Usable Categories
-Service Design★
++ 交互设计—-超越人机交互
++ 软件观念革命
++ A Practical Guide to Information Architecture
++ Designing for Emotion
++ 项目百态★
++ 当用户体验设计遇上敏捷
++ Web导航设计
++ Web信息架构—-设计大型网站★（移动应用的设计成熟度还不如网页设计，想深入学习交互可以从网页设计中借鉴经验）
++ Web界面设计★
++ 精通Web Analytics2.0★
++ 交互设计沉思录
++ 用户故事与敏捷方法
++ 用户体验度量
++ 社会心理学
++ Storytelling for User Experience
++ The Elements of Content Strategy
++ Lean UX★
++ Handbook of Usability Testing
++ Quantifying the User Experience
++ Designing the Conversation
++ Lean Analytics
++ Search Analytics for Your Site
++ Understanding Your Users★
++ Sketching Drawing Techniques for Product Designers
++ Card Sorting Designing Usable Categories
++ Service Design★
 
 
 字体设计
