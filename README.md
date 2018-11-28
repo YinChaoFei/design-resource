@@ -22,7 +22,9 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + [Pixabay](www.pixabay.com) 有些赞助商的图片会在网站上显示，以获取对Pixabay运营的资金支持，这些图片会带有Shutterstock的水印。
 
 + [depositphotos](http://depositphotos.com/)
-  
+
++ [wallhaven](https://www.wallhaven.com/)
+
   Millions of high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
 
 
@@ -298,7 +300,7 @@ Service Design★
 
 
 字体设计
-《商业字体设计》(方茜)（一定要看！！）
++《商业字体设计》(方茜)（一定要看！！）
 《好字体》(向玫玫)
 《文字设计的原理》([日]伊达千代，内藤孝彦)
 排版
