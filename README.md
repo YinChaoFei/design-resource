@@ -300,27 +300,30 @@ Service Design★
 
 
 字体设计
-+《商业字体设计》(方茜)（一定要看！！）
-《好字体》(向玫玫)
-《文字设计的原理》([日]伊达千代，内藤孝彦)
+
++ 《商业字体设计》(方茜)（一定要看！！）
++ 《好字体》(向玫玫)
++ 《文字设计的原理》([日]伊达千代，内藤孝彦)
 排版
-《栅格排版法》
-《版面设计的原理》([日]伊达千代，内藤孝彦)
-《超越平凡的平面设计 版式设计原理与应用》([美]麦克韦德（John McWade）
-《形式感+：网页视觉设计创意拓展与快速表现》(晋小彦)（重点推荐）
-《在你身边，为你设计：腾讯的用户体验设计之道》
+
++ 《栅格排版法》
++ 《版面设计的原理》([日]伊达千代，内藤孝彦)
++ 《超越平凡的平面设计 版式设计原理与应用》([美]麦克韦德（John McWade）
++ 《形式感+：网页视觉设计创意拓展与快速表现》(晋小彦)（重点推荐）
++ 《在你身边，为你设计：腾讯的用户体验设计之道》
 官方设计指南
-iOS Human Interface Guidelines：Designing for iOS 7★
-iPhone的设计指南最为经典，当时认真翻译完设计指南，学习别人的思考方式，对我的设计和分析思路有重要的影响
-Safari Web Content Guide
-Safari Web Content Guide
-material design
-Safari Web Content Guide
-Windows Phone 7 界面设计与交互指南Windows 8 UX Guidelines for Windows Store apps（操作系统的设计指南最好结合实际项目阅读，如没有并不准备设计win8平台，可以主要阅读设计理念和操作方式等重要章节）
-Android User Interface Guidelines★
-Touch Gesture Reference Guide
-Apple Human Interface Guidelines
-Windows 用户体验交互设计规范★（微软的设计指南最为详细，《About Face 交互设计精髓》也是根据office的项目经验汇总而成，几乎包揽了所有界面控件设计方法，虽然是桌面操作系统，但值得所有界面设计师学习）
-Google TV Design Patterns
-Google Glass Guidelines
-Android Wear Guidelines
+
++ iOS Human Interface Guidelines：Designing for iOS 7★
++ iPhone的设计指南最为经典，当时认真翻译完设计指南，学习别人的思考方式，对我的设计和分析思路有重要的影响
++ Safari Web Content Guide
++ Safari Web Content Guide
++ material design
++ Safari Web Content Guide
++ Windows Phone 7 界面设计与交互指南Windows 8 UX Guidelines for Windows Store apps（操作系统的设计指南最好结合实际项目阅读，如没有并不准备设计win8平台，可以主要阅读设计理念和操作方式等重要章节）
++ Android User Interface Guidelines★
++ Touch Gesture Reference Guide
++ Apple Human Interface Guidelines
++ Windows 用户体验交互设计规范★（微软的设计指南最为详细，《About Face 交互设计精髓》也是根据office的项目经验汇总而成，几乎包揽了所有界面控件设计方法，虽然是桌面操作系统，但值得所有界面设计师学习）
++ Google TV Design Patterns
++ Google Glass Guidelines
++ Android Wear Guidelines
